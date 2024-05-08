@@ -1,0 +1,1 @@
+Conducted data analysis on British Airways data.Utilized Snowflake and S3Bucket for efficient storage and retrieval of large volumes of data.Generated interactive Power BI dashboards to visualize Revenue,Routes,Extra Add-ons based on customer requirement,bokking and based on day.
